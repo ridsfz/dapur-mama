@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://dapur-mama-8di5.onrender.com/api';
 
 const getHeaders = () => {
   const token = localStorage.getItem('token');
